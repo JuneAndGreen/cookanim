@@ -1,0 +1,19 @@
+{
+  "name": "cookanim",
+  "version": "0.0.1",
+  "description": "A simple tool for making animation Edit",
+  "main": "Add topics",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuneAndGreen/cookanim.git"
+  },
+  "author": "june01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuneAndGreen/cookanim/issues"
+  },
+  "homepage": "https://github.com/JuneAndGreen/cookanim#readme"
+}
