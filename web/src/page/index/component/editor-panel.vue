@@ -1,5 +1,12 @@
 <style lang="less" rel="stylesheet/less">
-    .editor-panel {}
+    .editor-panel {
+        position: relative;
+        height: 100%;
+        flex: 1;
+
+        display: flex;
+        flex-direction: column;
+    }
 </style>
 <template>
     <div class="editor-panel">

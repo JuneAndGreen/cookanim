@@ -1,4 +1,7 @@
 <style lang="less" rel="stylesheet/less">
+    @import "~css/common/reset.less";
+    @import "~css/common/common.less";
+
     html,
     body {
         position: relative;
@@ -7,10 +10,18 @@
 
         overflow: hidden;
     }
+
+    .cookanim {
+        position: relative;
+        width: 100%;
+        height: 100%;
+
+        display: flex;
+    }
 </style>
 
 <template>
-    <div class="player">
+    <div class="cookanim">
         <EditorPanel></EditorPanel>
         <ToolPanel></ToolPanel>
     </div>
